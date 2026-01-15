@@ -1,4 +1,4 @@
-# ROS2 Turtlesim Autonomous Navigation
+# ROS2 Turtlesim Autonomous Navigation - Satwik Halappanavar
 
 ## Candidate Name
 Satwik Halappanavar
