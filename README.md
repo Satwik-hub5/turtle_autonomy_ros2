@@ -44,6 +44,9 @@ ros2 run turtle_autonomy turtle_autonomy
 - Implemented autonomous navigation using unicycle model
 - Turtle selects angular velocity to move toward goal
 
+- ## Demo Video
+- https://drive.google.com/drive/folders/1O2cNKnEttbMDnqwDpGNBIy13bwrzjawu?usp=sharing 
+
 ## Contact Info
 
 Name: Satwik Halappanavar  
